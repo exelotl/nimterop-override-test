@@ -1,0 +1,7 @@
+*.exe
+*.dll
+socket.nim
+*.dylib
+*.so
+test1
+test2
